@@ -1,2 +1,2 @@
-# file_renamer
-Renames files using regex patterns
+# File renamer
+Renames files in folder using regex patterns.
