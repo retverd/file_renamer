@@ -34,3 +34,4 @@ def rename() -> None:
 
 if __name__ == '__main__':
     rename()
+    input("Press any key to exit...")

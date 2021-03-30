@@ -26,3 +26,4 @@ def clean_up() -> None:
 
 if __name__ == '__main__':
     clean_up()
+    input("Press any key to exit...")
